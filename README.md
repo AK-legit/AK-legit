@@ -1,5 +1,6 @@
 ## Hi there 👋 🔭 I’m currently working on learning data analysis...
-
+### 💡 Dev Quote of the Day
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial)
 <!--
 **AK-legit/AK-legit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
