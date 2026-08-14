@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 ![VMware](https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white)
 
 
-![Besucher](https://komarev.com/ghpvc/?username=DEIN_GITHUB_USERNAME&color=blue&style=flat-square)
-
 ![Snake animation](https://github.com/AK-legit/AK-legit/blob/output/github-contribution-grid-snake.svg)
