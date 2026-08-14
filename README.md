@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 ![Microsoft Dynamics NAV](https://img.shields.io/badge/Dynamics_NAV-002050?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Citrix](https://img.shields.io/badge/Citrix-000000?style=for-the-badge&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white)
+
+
+![Besucher](https://komarev.com/ghpvc/?username=DEIN_GITHUB_USERNAME&color=blue&style=flat-square)
+
+![Snake animation](https://github.com/AK-legit/AK-legit/blob/output/github-contribution-grid-snake.svg)
